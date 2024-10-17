@@ -1,3 +1,3 @@
 # gitdemo
-understanding git
+understanding git <br>
 performing basic git operations
